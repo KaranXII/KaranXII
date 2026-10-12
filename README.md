@@ -1,23 +1,28 @@
-<h1 align="center">Ciao, sono Karan 👋</h1>
+<a href="https://karandev.it"><img src="banner.png" alt="Karan — sviluppatore full-stack e AI" width="100%"></a>
+
+<h2 align="center">Ciao 👋, sono Karan</h2>
+
+<p align="center"><b>Sviluppatore full-stack · Integrazioni AI · Mantova</b></p>
+
+<p align="center"><code>software · ai · automation</code></p>
 
 <p align="center">
-  <b>Sviluppatore full-stack e integrazioni AI · Mantova, Italia</b><br>
-  Gestionali su misura, automazioni e assistenti AI che fanno il lavoro noioso al posto delle persone.
-</p>
-
-<p align="center">
-  <a href="https://karandev.it"><img src="https://img.shields.io/badge/Portfolio-karandev.it-e1e0cc?style=for-the-badge&labelColor=0b0b0a" alt="Portfolio karandev.it"></a>
-  <a href="mailto:jasky2801@gmail.com"><img src="https://img.shields.io/badge/Email-Scrivimi-e1e0cc?style=for-the-badge&labelColor=0b0b0a" alt="Email"></a>
+  <a href="https://karandev.it"><img src="https://img.shields.io/badge/Portfolio-karandev.it-e1e0cc?style=for-the-badge&labelColor=0d1117" alt="Portfolio karandev.it"></a>
+  <a href="mailto:jasky2801@gmail.com"><img src="https://img.shields.io/badge/Email-Scrivimi-e1e0cc?style=for-the-badge&labelColor=0d1117" alt="Email"></a>
 </p>
 
 ---
 
 ### 🛠️ Cosa faccio
 
+<img src="lab.png" alt="La macchina del Lab di karandev.it" width="300" align="right">
+
 - **Gestionali su misura** — magazzino, presenze, ferie, note spese: tutto in un posto, dal PC o dal telefono.
 - **Automazioni** — report Excel e PDF, fatture elettroniche, passaggi ripetitivi che si fanno da soli.
 - **Integrazioni AI** — assistenti vocali e chatbot che conoscono i dati dell'azienda.
 - **Siti e landing page** veloci, chiari e pensati per convertire.
+
+<br clear="right">
 
 ### 🚀 Progetti in evidenza
 
@@ -49,18 +54,3 @@ AI: Claude · ElevenLabs · integrazioni LLM e assistenti vocali
 ---
 
 <p align="center"><sub>🇬🇧 Full-stack & AI integration developer based in Mantua, Italy. Custom management software, automations and AI assistants. Portfolio: <a href="https://karandev.it/en">karandev.it/en</a></sub></p>
-
-<!--
-**KaranXII/KaranXII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
